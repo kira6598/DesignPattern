@@ -1,0 +1,1 @@
+https://opencoursehub.cs.sfu.ca/bfraser/grav-cms/cmpt373/exercises/design_pattern_exercise?fbclid=IwAR28-tIzPGzLLBcmO7zb8XKxJXF0LrLYRbuA2zjPRntfyaEVftFYukRePSk
